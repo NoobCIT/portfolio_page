@@ -1,0 +1,19 @@
+body {
+  padding-top: 70px;
+  background-image: url("http://goldwallpapers.com/uploads/posts/dota-background/dota_background_015.jpg");
+}
+
+.display-1 {
+  font-size: 72px;
+  text-align: center;
+}
+
+.container.display {
+  background-color: #d9d9d9;
+}
+
+.projects {
+  background-color: #b3daff;
+  margin: 40.4166px;
+  height: 500px;
+}
